@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @powerfulssg
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning/pursuing diploma in computer science.
-- 📫 How to reach me = Telegram: @blackHaxSEC
+- 📫 How to reach me = Telegram: @BlackHaxSEC
 
 <!---
 powerfulssg/powerfulssg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
