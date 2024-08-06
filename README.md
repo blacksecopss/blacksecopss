@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @powerfulssg
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning/pursuing diploma in computer science.
+- 👋 Hi, I’m BlackSecOpss
+- 👀 I’m interested in Ethical Hacking and Penetration Testing.
+- 🌱 I’m currently pursuing B.Tech in Cybersecurity.
 - 📫 How to reach me = Telegram: @BlackSecOpss
 
 <!---
