@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 💻 Hi, I'm BlackSecOps. I am an Security Researcher passionate about VAPT, OSINT, Ethical Hacking and Red Teaming.
+- 📫 How to reach me: Telegram: @blacksecopss
 <!--
 **blacksecopss/blacksecopss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
